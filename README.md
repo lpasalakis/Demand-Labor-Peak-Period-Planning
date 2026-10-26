@@ -71,6 +71,11 @@ as actual business results.
 -   Correlation does not establish causation.
 -   No actual labor savings or real-world impact is claimed.
 
+## Key Findings
+
+![Restaurant demand and labor analysis](hourly_demand.png)
+![Staffing coverage analysis](staffing_coverage.png)
+
 ## Run it
 
 Install dependencies with
