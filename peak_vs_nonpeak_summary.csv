@@ -1,0 +1,3 @@
+peak_flag,periods,avg_orders,avg_actual_staff,avg_service_time_min,avg_late_order_rate,below_proxy_share,period_type
+False,868,18.523041474654377,4.135944700460829,3.201774193548387,0.07726958525345622,0.010368663594470046,Other periods
+True,308,36.996753246753244,6.275974025974026,3.332532467532468,0.09791558441558441,0.0,Top-quartile demand periods
